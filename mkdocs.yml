@@ -1,6 +1,6 @@
 site_name: Mapping Effectively in FiveM
 theme:
-  name: cinder
+  name: terminal
 
 nav:
   - Home: index.md
