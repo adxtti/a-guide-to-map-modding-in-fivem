@@ -1,6 +1,38 @@
-site_name: Mapping Effectively in FiveM
+# Project Metadata
+site_name: A guide to map modding in FiveM
+site_description: A comprehensive guide to mapping and level design in FiveM
+site_author: Adxtti
+
 theme:
-  name: terminal
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - content.code.annotate
+  palette:
+    primary: teal
+    accent: orange
+
+plugins:
+  - search
+  - mermaid2
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
+  - Introduction:
+      - 1.1 What is Mapping?: intro/what-is-mapping.md
+      - 1.2 Understanding GTA V file formats: intro/understanding-formats.md
+      - 1.3 Intro to dynamic viewing states: intro/dynamic-view-states.md
+      - 1.4 CodeWalker basics: intro/codewalker-basics.md
+      - 1.5 Creating your first map: intro/first-map.md
+  - Collisions:
+      - 2.1 Embedded collisions: cols/embedded.md
