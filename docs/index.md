@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# 👋 Hey there!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the guide for mapping effectively in FiveM. This guidebook serves as a comprehensive documentation resource for both newcomers and experienced developers aiming to excel in map modding and level creation for FiveM.
 
-## Commands
+With tools like CodeWalker, Blender, and OpenIV, creating maps can be as straightforward or as complex as your imagination allows. From optimizing assets to streaming maps efficiently, this guide will equip you with the knowledge and techniques to master mapping.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Start your journey by exploring the sections in the navigation menu. Happy mapping!
