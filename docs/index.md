@@ -1,4 +1,4 @@
-# 👋 Hey there!
+# Overview
 
 Welcome to the guide for mapping effectively in FiveM. This guidebook serves as a comprehensive documentation resource for both newcomers and experienced developers aiming to excel in map modding and level creation for FiveM.
 
