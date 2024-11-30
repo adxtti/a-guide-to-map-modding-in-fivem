@@ -2,7 +2,7 @@
 site_name: A guide to map modding in FiveM
 site_description: A comprehensive guide to mapping and level design in FiveM
 site_author: Adxtti
-site_url: https://github.com/notneopallium/a-guide-to-map-modding-in-fivem
+site_url: https://maps.adxtti.dev
 
 theme:
   name: material
