@@ -32,3 +32,39 @@ nav:
   - Introduction:
       - 1.1 What is Mapping?: intro/what-is-mapping.md
       - 1.2 Understanding GTA V file formats: intro/understanding-formats.md
+      - 1.3 Understanding the modding community: introduction/understanding-modding-community.md
+  - Getting started:
+      - 2.1 System requirements and prerequisites: getting-started/system-requirements.md
+      - 2.2 Essential tools overview:
+          - CodeWalker: getting-started/codewalker.md
+          - CodeWalker RPF Explorer: getting-started/rpf-explorer.md
+  - Basics of Mapping:
+      - 3.1 Creating and editing YMAP Files: basics/creating-editing-ymap.md
+      - 3.2 Placing and manipulating objects: basics/placing-manipulating-objects.md
+      - 3.3 Saving and exporting for FiveM: basics/saving-exporting-fivem.md
+  - Custom Interiors (MLOs):
+      - 4.1 Understanding MLOs: custom-interiors/understanding-mlos.md
+      - 4.2 Designing interiors with 3D Tools: custom-interiors/designing-interiors.md
+      - 4.3 Implementing portals and entity sets: custom-interiors/portals-entity-sets.md
+      - 4.4 Streaming custom interiors in FiveM: custom-interiors/streaming-custom-interiors.md
+  - Advanced mapping:
+      - 5.1 Creating dynamic environments: advanced-mapping/dynamic-environments.md
+      - 5.2 Custom textures and materials: advanced-mapping/textures-materials.md
+      - 5.3 Optimizing maps for performance: advanced-mapping/optimizing-performance.md
+      - 5.4 Troubleshooting common issues: advanced-mapping/troubleshooting.md
+  - Streaming maps in FiveM:
+      - 6.1 Setting up map resources: streaming-maps/setting-up-resources.md
+      - 6.2 Configuring fxmanifest: streaming-maps/configuring-resource-lua.md
+      - 6.3 Ensuring compatibility: streaming-maps/ensuring-compatibility.md
+      - 6.4 Best practices: streaming-maps/best-practices.md
+  - Testing and debugging:
+      - 7.1 Identifying and resolving glitches: testing-debugging/resolving-glitches.md
+      - 7.2 Fixing map overlaps: testing-debugging/troubleshooting.md
+  - Appendices:
+      - A. Glossary of mapping terms: appendices/glossary.md
+      - B. List of useful tools and plugins: appendices/tools-and-plugins.md
+      - C. Sample YMAP and YTYP files: appendices/sample-files.md
+      - D. Additional tutorials and resources: appendices/additional-resources.md
+  - Miscellaneous:
+      - E. Everything about Liberty City mapping: misc/lc.md
+      - F. Addon map mapping practices: misc/addon-practices.md
